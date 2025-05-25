@@ -1,7 +1,13 @@
 # HOME AUTOMATION USING ESP32
-###### This is to make the home appliences to be smart and to get remote access of the appliences from anywhere with internet connections.
+###### This is to make the home appliences to be smart and to get remote access of the appliences from anywhere with internet connections. This is made by WOKWI and the cloud BLYNK.
 ---
-Here is the references...
+Here is the references...<br/>
+Circuit Connections in WOKWI :-
+<img src=https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/Home%20automation.png>
+In Cloud BLYNK :-
+
+Working :- <br/>
+[<img width="300" height="300" src="https://img.icons8.com/avantgarde/100/video.png" alt="video"/>](https://youtu.be/KqhvBD_Ou3o)
 
 Code :-
 ```
